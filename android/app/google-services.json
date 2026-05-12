@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "476750725506",
+    "project_id": "arm-system-47401",
+    "storage_bucket": "arm-system-47401.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476750725506:android:3950b0a8e15e6000258f9b",
+        "android_client_info": {
+          "package_name": "com.example.robotics_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcYphKFOYZC_6Ky612Kgj6aeTu3eSrVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476750725506:android:a165d78318bf0f7e258f9b",
+        "android_client_info": {
+          "package_name": "com.example.robotics_appcd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcYphKFOYZC_6Ky612Kgj6aeTu3eSrVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
